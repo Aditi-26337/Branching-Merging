@@ -1,3 +1,4 @@
 
-Master Branch
-Content of chapter 2
+Side Branch
+
+Content of chapter 2 (side-branch merged with main branch )
